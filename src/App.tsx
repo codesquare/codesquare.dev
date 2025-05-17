@@ -6,7 +6,7 @@ const UnderConstruction = () => {
     <div className="bg-gray-950 text-white min-h-screen flex flex-col items-center justify-center p-6">
       <img src={Logo} alt="Codesquare logo" className="w-64 mb-8" />
 
-      <div className="text-center max-w-2xl">
+      <div className="text-center max-w-3xl">
         <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
           🚧 Under Construction 🚧
         </h1>
